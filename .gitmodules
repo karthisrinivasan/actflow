@@ -8,7 +8,7 @@
 	branch = main
 [submodule "Dali"]
 	path = Dali
-	url = https://github.com/karthisrinivasan/Dali
+	url = http://github.com/karthisrinivasan/Dali
 	branch = main
 [submodule "BiPart"]
 	path = BiPart
